@@ -9,6 +9,8 @@ Add one more line for test reset command!
 Good by.
 Line from GitHub.
 
+Check how it works with SSH
+
 
 
 
