@@ -14,6 +14,10 @@ Check how it works with SSH
 add fron new-feature
 
 
+add line from master
+
+from new-feature
+
 
 
 
